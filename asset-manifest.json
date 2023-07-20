@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/csc318-hw4/static/css/main.a3c2ba96.css",
+    "main.js": "/csc318-hw4/static/js/main.e7ebfb68.js",
+    "index.html": "/csc318-hw4/index.html",
+    "main.a3c2ba96.css.map": "/csc318-hw4/static/css/main.a3c2ba96.css.map",
+    "main.e7ebfb68.js.map": "/csc318-hw4/static/js/main.e7ebfb68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c2ba96.css",
+    "static/js/main.e7ebfb68.js"
+  ]
+}
